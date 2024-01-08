@@ -2444,3 +2444,10 @@ section {
   margin-right: 10px;
   transform: translateY(-5px);
 }
+
+#audiomr:hover p{
+  border-radius: 20px;
+  color: rgb(150, 199, 255);
+
+}
+
